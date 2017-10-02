@@ -1,0 +1,37 @@
+body{
+    background-image: url(backround.png);
+    background-repeat: no-repeat;
+    text-align: center;
+    font-family: cursive, sans-serif, monospace;
+}
+
+h1{
+    color: #ff0000;
+    background-color: bisque;
+}
+li{
+    color: #ff0000;
+    text-decoration: none;
+    display:inline;
+}
+#list{
+    color: #00ff00;
+}
+#main{
+    color: #33451a;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+    
+}
+ul{
+    text-decoration: none;
+    display: inline;
+}
+a:hover{
+    color:darkorange
+}
+h1:hover{
+    background-color: deeppink;
+}
